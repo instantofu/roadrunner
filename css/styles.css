@@ -1,0 +1,42 @@
+body {
+    background-color: DodgerBlue;
+}
+
+h1 {
+    font-family: "Amita";
+    font-size: 4.5rem;
+    font-weight: 700;
+    color: white;
+    line-height: 2.0;
+}
+
+p {
+    font-family: "Montserrat Alternates";
+    color: white;
+    margin-top: 30px;
+    padding: 20px;
+}
+
+
+.roadrunner-box {
+    margin-top: 100px;
+    padding: 50px;
+    text-align: center;
+}
+
+.image-roadrunner {
+    border-radius: 50%;
+    border: 1px solid #ddd;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.2);
+    width: 50%;
+    background-color: DeepSkyBlue;
+}
+
+.image-roadrunner:hover {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+  }
+
+  .h1-name {
+    color: gold;
+  }
