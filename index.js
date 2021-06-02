@@ -27,7 +27,7 @@ $("button").click(function() {
 */
 
 $("button").on("click", function() {
-  $("h1").text("heute schreibt: " + nextOne + " !");
+  $("h1").text("heute schreibt " + nextOne + " !");
   $("h1").addClass("h1-name");
   setTimeout(function() {
     //$("h1").fade;
